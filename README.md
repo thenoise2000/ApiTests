@@ -4,15 +4,16 @@ Se desarrollo una API REST para operaciones de CRUD con Nodejs empleando una DB 
 
 Herramientas
 
-Nodejs v18
+- Nodejs v18
 
-Axios
+- Axios
 
-MongoDB
+- MongoDB
 
-JWT
+- JWT
 
-Api Jsonplaceholder
+- Api Jsonplaceholder
+  
 
 
 Para instalar
