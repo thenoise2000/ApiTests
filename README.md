@@ -1,6 +1,6 @@
 Api rest para pruebas en la api publica de jsonplaceholder 
 
-Se desarrollo una API REST para operaciones de CRUD con Nodejs empleando una DB no relacional MongoDB.
+Se desarrollo una API REST para operaciones de CRUD con Nodejs empleando una BD no relacional MongoDB.
 
 Herramientas
 
