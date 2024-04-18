@@ -12,6 +12,8 @@ MongoDB
 
 JWT
 
+Api Jsonplaceholder
+
 
 Para instalar
 
